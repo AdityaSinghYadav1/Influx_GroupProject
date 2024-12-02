@@ -19,5 +19,5 @@ The dataset contains comprehensive information including:-
 1. Analyze CO2 Emissions: Calculate the average CO2 emissions for different vehicle classes and fuel types over the last hour to understand which categories contribute most to pollution.
 2. Evaluate Fuel Consumption: Assess the average fuel consumption in city driving conditions based on transmission types over the last hour to identify more efficient vehicle options.
 3. Identify Maximum Highway Fuel Consumption: Determine the maximum highway fuel consumption for various engine sizes over the past 24 hours, which can help highlight high-performance vehicles.
-4. Examine Combined Fuel Consumption: Calculate the mean, minimum, and maximum combined fuel consumption for vehicles based on their cylinder counts over the last 12 hours to evaluate efficiency across different engine configurations.
-5. Assess Fuel Efficiency in MPG: Analyze the average combined fuel consumption in miles per gallon (MPG) based on make and model over the last 30 minutes to provide insights into consumer choices regarding fuel-efficient vehicles.
+4. Examine Combined Fuel Consumption: Calculate the combined fuel consumption for vehicles based on their cylinder counts over the last 12 hours to evaluate efficiency across different engine configurations.
+5. Assess Fuel Efficiency in MPG: Analyze the average combined fuel consumption in miles per gallon (MPG) based on make over the last 30 minutes to provide insights into consumer choices regarding fuel-efficient vehicles.
